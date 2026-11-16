@@ -1,0 +1,15 @@
+/** @format */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	background-color: indigo;
+	font-family: Arial, sans-serif;
+}
